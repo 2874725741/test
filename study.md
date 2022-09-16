@@ -324,5 +324,7 @@ void pop_link(PLinkStack plstack)
 | 数据结构中栈的操作     | 2022年9月16日 |
 # 图片
 
+![](assets/HarryPotter.md.jpeg)
+
 
 
